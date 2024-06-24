@@ -1,7 +1,7 @@
 ### Deep Learning Based Method for Activity Estimation from Short-Duration Gamma Spectroscopy Recordings
 
 This is the supplementary material for the paper "Deep Learning Based Method for Activity Estimation from Short-Duration Gamma Spectroscopy Recordings" by D. Bykhovsky and T. Trigano.
-The paper is currently under review and the supplementary material is provided for the reviewers' convenience.
+The paper is currently under review.
 
 This repository contains the two main parts of the project:
 
